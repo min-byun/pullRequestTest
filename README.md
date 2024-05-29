@@ -1,2 +1,2 @@
 # pullRequestTest
-첫 수정
+마음에 들도록 수정함
